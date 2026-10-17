@@ -47,7 +47,7 @@ Saat ini saya sedang belajar **web development** dari dasar, dan GitHub ini adal
 - [ ] Mencoba berkontribusi ke proyek open source
 
 ## Hubungi saya
-![https://www.instagram.com/emilioixa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emilioixa/)
 
 ---
 *Masih belajar, dan senang dengan saran atau masukan. Terima kasih sudah mampir! 🚀*
