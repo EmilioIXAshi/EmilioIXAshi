@@ -21,12 +21,6 @@ Saat ini saya sedang belajar **web development** dari dasar, dan GitHub ini adal
 
 **Sedang dipelajari:** CSS
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
 ## Proyek
 
 | Proyek | Deskripsi | Teknologi |
@@ -50,3 +44,9 @@ Saat ini saya sedang belajar **web development** dari dasar, dan GitHub ini adal
 
 ---
 *Masih belajar, dan senang dengan saran atau masukan. Terima kasih sudah mampir! 🚀*
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
