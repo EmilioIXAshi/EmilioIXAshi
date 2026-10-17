@@ -10,6 +10,14 @@ Saat ini saya sedang belajar **web development** dari dasar, dan GitHub ini adal
 - 🌱 Berikutnya: mempelajari **CSS** dan **Git/GitHub** lebih dalam
 - 🤝 Terbuka untuk belajar bareng dan menerima masukan
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 ## Tech stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -44,15 +52,3 @@ Saat ini saya sedang belajar **web development** dari dasar, dan GitHub ini adal
 
 ---
 *Masih belajar, dan senang dengan saran atau masukan. Terima kasih sudah mampir! 🚀*
-
-<h2 data-importer="text" align="left">PacMan</h2>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmilioIXAshi/EmilioIXAshi/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
